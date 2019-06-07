@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "400278581426",
+    "firebase_url": "https://majorii.firebaseio.com",
+    "project_id": "majorii",
+    "storage_bucket": "majorii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400278581426:android:fc2d90af73098de5",
+        "android_client_info": {
+          "package_name": "com.example.beastincarnate.majorii"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4hX-XzikB2INuXajjOt3-lCojRiCMo_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400278581426-havo7mhrem9mtu59q9ds09blj4mu0l8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
